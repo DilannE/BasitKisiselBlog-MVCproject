@@ -1,0 +1,139 @@
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\ApplicationInsights.config
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\roslyn\csc.exe
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\roslyn\vbc.exe
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\roslyn\VBCSCompiler.exe
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\dilan.dll.config
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\dilan.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\dilan.pdb
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\Microsoft.AI.Web.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\Microsoft.ApplicationInsights.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\System.Web.Helpers.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\System.Web.Mvc.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\System.Web.Razor.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\System.Web.Webpages.Deployment.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\System.Web.Webpages.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\System.Web.Webpages.Razor.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\Microsoft.AI.Web.xml
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\Microsoft.ApplicationInsights.xml
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\System.Web.Razor.xml
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\System.Web.Webpages.xml
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\System.Web.Webpages.Deployment.xml
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\System.Web.Webpages.Razor.xml
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\System.Web.Helpers.xml
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\bin\System.Web.Mvc.xml
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\obj\Debug\dilan.dll
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\obj\Debug\dilan.pdb
+c:\users\ali\documents\visual studio 2015\Projects\dilan\dilan\obj\Debug\dilan.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\dilan\dilan\bin\ApplicationInsights.config
+C:\Users\Ali\Desktop\dilan\dilan\bin\roslyn\csc.exe
+C:\Users\Ali\Desktop\dilan\dilan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ali\Desktop\dilan\dilan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ali\Desktop\dilan\dilan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\roslyn\vbc.exe
+C:\Users\Ali\Desktop\dilan\dilan\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ali\Desktop\dilan\dilan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ali\Desktop\dilan\dilan\bin\dilan.dll.config
+C:\Users\Ali\Desktop\dilan\dilan\bin\dilan.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\dilan.pdb
+C:\Users\Ali\Desktop\dilan\dilan\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\Microsoft.AI.Web.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\System.Web.Helpers.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\System.Web.Mvc.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\System.Web.Razor.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\System.Web.Webpages.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ali\Desktop\dilan\dilan\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ali\Desktop\dilan\dilan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ali\Desktop\dilan\dilan\bin\Microsoft.AI.Web.xml
+C:\Users\Ali\Desktop\dilan\dilan\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ali\Desktop\dilan\dilan\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ali\Desktop\dilan\dilan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ali\Desktop\dilan\dilan\bin\System.Web.Razor.xml
+C:\Users\Ali\Desktop\dilan\dilan\bin\System.Web.Webpages.xml
+C:\Users\Ali\Desktop\dilan\dilan\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ali\Desktop\dilan\dilan\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ali\Desktop\dilan\dilan\bin\System.Web.Helpers.xml
+C:\Users\Ali\Desktop\dilan\dilan\bin\System.Web.Mvc.xml
+C:\Users\Ali\Desktop\dilan\dilan\obj\Debug\dilan.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\dilan\dilan\obj\Debug\dilan.dll
+C:\Users\Ali\Desktop\dilan\dilan\obj\Debug\dilan.pdb
+C:\Users\nigre\Desktop\dilan\dilan\bin\ApplicationInsights.config
+C:\Users\nigre\Desktop\dilan\dilan\bin\roslyn\csc.exe
+C:\Users\nigre\Desktop\dilan\dilan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nigre\Desktop\dilan\dilan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nigre\Desktop\dilan\dilan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\roslyn\vbc.exe
+C:\Users\nigre\Desktop\dilan\dilan\bin\roslyn\VBCSCompiler.exe
+C:\Users\nigre\Desktop\dilan\dilan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nigre\Desktop\dilan\dilan\bin\dilan.dll.config
+C:\Users\nigre\Desktop\dilan\dilan\bin\dilan.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\dilan.pdb
+C:\Users\nigre\Desktop\dilan\dilan\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\Microsoft.AI.Web.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\System.Web.Helpers.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\System.Web.Mvc.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\System.Web.Razor.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\System.Web.Webpages.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\System.Web.Webpages.Razor.dll
+C:\Users\nigre\Desktop\dilan\dilan\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nigre\Desktop\dilan\dilan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nigre\Desktop\dilan\dilan\bin\Microsoft.AI.Web.xml
+C:\Users\nigre\Desktop\dilan\dilan\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nigre\Desktop\dilan\dilan\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nigre\Desktop\dilan\dilan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nigre\Desktop\dilan\dilan\bin\System.Web.Razor.xml
+C:\Users\nigre\Desktop\dilan\dilan\bin\System.Web.Webpages.xml
+C:\Users\nigre\Desktop\dilan\dilan\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nigre\Desktop\dilan\dilan\bin\System.Web.Webpages.Razor.xml
+C:\Users\nigre\Desktop\dilan\dilan\bin\System.Web.Helpers.xml
+C:\Users\nigre\Desktop\dilan\dilan\bin\System.Web.Mvc.xml
+C:\Users\nigre\Desktop\dilan\dilan\obj\Debug\dilan.csprojResolveAssemblyReference.cache
+C:\Users\nigre\Desktop\dilan\dilan\obj\Debug\dilan.csproj.CoreCompileInputs.cache
+C:\Users\nigre\Desktop\dilan\dilan\obj\Debug\dilan.dll
+C:\Users\nigre\Desktop\dilan\dilan\obj\Debug\dilan.pdb

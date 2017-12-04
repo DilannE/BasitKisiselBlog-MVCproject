@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <meta charset="utf-8">
+    <link href="../css/style.css" rel="stylesheet" type="text/css">
+    <link href="../css/ie6.css" rel="stylesheet" type="text/css">
+    <link href="../css/ie7.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+
+    <div id="background">
+        <div id="page">
+            <div class="header">
+                <div class="footer">
+                    <div class="body">
+                        <div id="sidebar">
+             
+
+                            <ul class="navigation">
+                                <li class="active"><a href="index.html"><font color="#330033" >  @Html.ActionLink("ANA SAYFA", "Index", "Home")  </font></a></li>
+                                <li><a href="about.html"><font color="#330033">  @Html.ActionLink("HAKKIMDA","Hakkimda","Home")  </font></a></li>
+                                <li><a href="blog.html"><font color="green">@Html.ActionLink("PROJELER", "Projeler", "Home")</font></a></li>
+                                <li class="last"><a href="contact.html"><font color="green">@Html.ActionLink("İLETİŞİM", "İletisim", "Home")</font></a></li>
+                            </ul>
+
+
+                            <div class="connect"> <a href="#" class="facebook">&nbsp;</a> <a href="#" class="twitter">&nbsp;</a> <a href="#" class="vimeo">&nbsp;</a> </div>
+                            <div class="footenote">  <span><a href="#"> </a><font color="navy"> <b>by dilanErgin all rights reserved</b></font> </span> </div>
+                        </div>
+
+
+                        <div id="content">
+                            @RenderBody()
+                          
+                        </div>
+
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</body>
+</html>
